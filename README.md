@@ -127,3 +127,8 @@ gold/
 
 PYTHONPATH=/Users/vramesh/Developer/production/gold python3 src/main.py
 python3 generate_user_data.py
+
+
+
+exe on windows--
+pip install pyinstaller
